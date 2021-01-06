@@ -51,6 +51,7 @@ function start(){
 
 
 
+
 /**
  @description 通过包名启动应用。如果该包名对应的应用不存在，则返回false；否则返回true。
  @version     20201125
