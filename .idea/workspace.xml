@@ -5,56 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c26b329-6d26-4d61-ad3c-03cd26df737a" name="默认的" comment="富赢娱乐棋牌-龙虎大战自动下注">
-      <change afterPath="$PROJECT_DIR$/fyyl/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/fyyl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/libs/acEvent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/libs/agentEvent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/libs/basic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/libs/device.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/libs/ecloud.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/libs/file.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/libs/global.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/libs/http.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/libs/image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/libs/shell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/libs/sqlite.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/libs/thread.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/libs/uilayout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/libs/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/pkgsetting.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/js/conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/js/func.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/css/materialize.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/htmljs/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/htmljs/materialize.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/intr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/layout.attr.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/layout.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/other.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/timer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/res/11111111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/res/dragon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/res/drawable/20201216003102.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/res/drawable/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/res/drawable/流程图.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/res/jjks.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/res/peace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/res/qxz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/res/tiger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fyyl/src/update.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_1_7_03_02___Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_1_7_03_03___Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_1_7_03_02_取消提交了变更_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_1_7_03_03_取消提交了变更_[Default_Changelist]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <list id="f41bd2be-184a-4be9-8367-969b33028c00" name="在进行更新之前于 2021/1/7 03:03 取消提交了变更 [Default Changelist]" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,17 +60,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fyyl/src/js/main.js" working-dir="$PROJECT_DIR$/fyyl/src/js">
       <method v="2" />
     </configuration>
@@ -154,6 +95,7 @@
       <workItem from="1609963964157" duration="1169000" />
       <workItem from="1609965148255" duration="123000" />
       <workItem from="1609965276692" duration="1202000" />
+      <workItem from="1609966492321" duration="177000" />
     </task>
     <task id="LOCAL-00001" summary="完成比较稳妥的功能函数launch通过包名启动应用">
       <created>1609959689186</created>
@@ -204,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609966314495</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="富赢娱乐棋牌-龙虎大战自动下注">
+      <created>1609966546026</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609966546026</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
