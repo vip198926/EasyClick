@@ -44,7 +44,7 @@
 
 
 function start(){
-    let packageName = 'android.ext.system111';
+    let packageName = 'android.ext.system';
     launch(packageName);
 
 }
