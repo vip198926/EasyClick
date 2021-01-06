@@ -1,0 +1,1010 @@
+<svg id="kity_svg_6" xmlns="http://www.w3.org/2000/svg" version="1.1" width="1564" height="521"
+     style="background: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAIAAAACDbGyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDowQzg5QTQ0NDhENzgxMUUzOENGREE4QTg0RDgzRTZDNyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDowQzg5QTQ0NThENzgxMUUzOENGREE4QTg0RDgzRTZDNyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkMwOEQ1NDRGOEQ3NzExRTM4Q0ZEQThBODREODNFNkM3IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkMwOEQ1NDUwOEQ3NzExRTM4Q0ZEQThBODREODNFNkM3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+e9P33AAAACVJREFUeNpisXJ0YUACTAyoAMr/+eM7EGGRZ4FQ7BycEAZAgAEAHbEGtkoQm/wAAAAASUVORK5CYII=&quot;) repeat rgb(58, 65, 68); visibility: visible;"
+     viewBox="0 0 1564 521">
+    <defs id="kity_defs_7">
+        <linearGradient id="kity_linearGradient_17" x1="0" y1="0" x2="0" y2="1">
+            <stop id="kity_stop_18" offset="0" stop-color="rgb(255, 255, 255)"></stop>
+            <stop id="kity_stop_19" offset="1" stop-color="rgb(204, 204, 204)"></stop>
+        </linearGradient>
+        <marker id="kity_marker_2" orient="auto" refX="6" refY="0" viewBox="-7 -7 14 14" markerWidth="7"
+                markerHeight="7" markerUnits="userSpaceOnUse">
+            <path id="kity_path_3" fill="white" stroke="none" d="M6,0A6,6,0,1,1,-6,0A6,6,0,1,1,6,0"></path>
+        </marker>
+    </defs>
+    <g id="kity_g_8">
+        <g id="minder1" text-rendering="optimize-speed">
+            <g id="minder_connect_group1">
+                <path id="kity_path_56" fill="none" stroke="white" stroke-width="3"
+                      d="M69.5,182.5A63,2,0,0,0,132.5,184.5"></path>
+                <path id="kity_path_1368" fill="none" stroke="white" stroke-width="2"
+                      d="M700,284C704.5,284,704.5,332,709,332"></path>
+                <path id="kity_path_1409" fill="none" stroke="white" stroke-width="2"
+                      d="M700,284C704.5,284,704.5,236,709,236"></path>
+                <path id="kity_path_1410" fill="none" stroke="white" stroke-width="2"
+                      d="M609,282C613.5,282,613.5,284,618,284"></path>
+                <path id="kity_path_1411" fill="none" stroke="white" stroke-width="2"
+                      d="M504,282C506.5,282,506.5,282,509,282"></path>
+                <path id="kity_path_1412" fill="none" stroke="white" stroke-width="2"
+                      d="M417,281C419.5,281,419.5,282,422,282"></path>
+                <path id="kity_path_1413" fill="none" stroke="white" stroke-width="2"
+                      d="M317,281C318.5,281,318.5,281,320,281"></path>
+                <path id="kity_path_1414" fill="none" stroke="white" stroke-width="2"
+                      d="M257,185C264.5,185,264.5,281,272,281"></path>
+                <path id="kity_path_1415" fill="none" stroke="white" stroke-width="2"
+                      d="M318,116C338,116,338,116,358,116"></path>
+                <path id="kity_path_1416" fill="none" stroke="white" stroke-width="2"
+                      d="M257,185C264.5,185,264.5,116,272,116"></path>
+                <path id="kity_path_1457" fill="none" stroke="white" stroke-width="2"
+                      d="M743,236C749,236,749,237,755,237"></path>
+                <path id="kity_path_1505" fill="none" stroke="white" stroke-width="2"
+                      d="M1129,194C1149,194,1149,194,1169,194"></path>
+                <path id="kity_path_1506" fill="none" stroke="white" stroke-width="2"
+                      d="M1057,236C1077,236,1077,194,1097,194"></path>
+                <path id="kity_path_1507" fill="none" stroke="white" stroke-width="2"
+                      d="M1142,236C1162,236,1162,236,1182,236"></path>
+                <path id="kity_path_1508" fill="none" stroke="white" stroke-width="2"
+                      d="M1057,236C1077,236,1077,236,1097,236"></path>
+                <path id="kity_path_1509" fill="none" stroke="white" stroke-width="2"
+                      d="M1130,278C1150,278,1150,278,1170,278"></path>
+                <path id="kity_path_1510" fill="none" stroke="white" stroke-width="2"
+                      d="M1057,236C1077,236,1077,278,1097,278"></path>
+                <path id="kity_path_1511" fill="none" stroke="white" stroke-width="2"
+                      d="M953,236C973,236,973,236,993,236"></path>
+                <path id="kity_path_1512" fill="none" stroke="white" stroke-width="2"
+                      d="M877,237C898.5,237,898.5,236,920,236"></path>
+                <path id="kity_path_1513" fill="none" stroke="white" stroke-width="2"
+                      d="M1223,323C1243,323,1243,323,1263,323"></path>
+                <path id="kity_path_1514" fill="none" stroke="white" stroke-width="2"
+                      d="M1138,386C1158,386,1158,323,1178,323"></path>
+                <path id="kity_path_1515" fill="none" stroke="white" stroke-width="2"
+                      d="M1214,383C1234,383,1234,383,1254,383"></path>
+                <path id="kity_path_1516" fill="none" stroke="white" stroke-width="2"
+                      d="M1138,386C1160,386,1160,383,1182,383"></path>
+                <path id="kity_path_1517" fill="none" stroke="white" stroke-width="2"
+                      d="M1400,407C1420,407,1420,407,1440,407"></path>
+                <path id="kity_path_1518" fill="none" stroke="white" stroke-width="2"
+                      d="M1315,449C1335,449,1335,407,1355,407"></path>
+                <path id="kity_path_1519" fill="none" stroke="white" stroke-width="2"
+                      d="M1387,449C1407,449,1407,449,1427,449"></path>
+                <path id="kity_path_1520" fill="none" stroke="white" stroke-width="2"
+                      d="M1315,449C1335,449,1335,449,1355,449"></path>
+                <path id="kity_path_1521" fill="none" stroke="white" stroke-width="2"
+                      d="M1388,491C1408,491,1408,491,1428,491"></path>
+                <path id="kity_path_1522" fill="none" stroke="white" stroke-width="2"
+                      d="M1315,449C1335,449,1335,491,1355,491"></path>
+                <path id="kity_path_1523" fill="none" stroke="white" stroke-width="2"
+                      d="M1211,449C1231,449,1231,449,1251,449"></path>
+                <path id="kity_path_1524" fill="none" stroke="white" stroke-width="2"
+                      d="M1138,386C1158,386,1158,449,1178,449"></path>
+                <path id="kity_path_1525" fill="none" stroke="white" stroke-width="2"
+                      d="M1040,386C1060,386,1060,386,1080,386"></path>
+                <path id="kity_path_1526" fill="none" stroke="white" stroke-width="2"
+                      d="M924,386C944,386,944,386,964,386"></path>
+                <path id="kity_path_1527" fill="none" stroke="white" stroke-width="2"
+                      d="M877,237C883.5,237,883.5,386,890,386"></path>
+                <path id="kity_path_1528" fill="none" stroke="white" stroke-width="2"
+                      d="M1219,32C1239,32,1239,32,1259,32"></path>
+                <path id="kity_path_1529" fill="none" stroke="white" stroke-width="2"
+                      d="M1134,95C1154,95,1154,32,1174,32"></path>
+                <path id="kity_path_1530" fill="none" stroke="white" stroke-width="2"
+                      d="M1206,95C1226,95,1226,95,1246,95"></path>
+                <path id="kity_path_1531" fill="none" stroke="white" stroke-width="2"
+                      d="M1134,95C1154,95,1154,95,1174,95"></path>
+                <path id="kity_path_1532" fill="none" stroke="white" stroke-width="2"
+                      d="M1396,116C1416,116,1416,116,1436,116"></path>
+                <path id="kity_path_1533" fill="none" stroke="white" stroke-width="2"
+                      d="M1311,158C1331,158,1331,116,1351,116"></path>
+                <path id="kity_path_1534" fill="none" stroke="white" stroke-width="2"
+                      d="M1383,158C1403,158,1403,158,1423,158"></path>
+                <path id="kity_path_1535" fill="none" stroke="white" stroke-width="2"
+                      d="M1311,158C1331,158,1331,158,1351,158"></path>
+                <path id="kity_path_1536" fill="none" stroke="white" stroke-width="2"
+                      d="M1384,200C1404,200,1404,200,1424,200"></path>
+                <path id="kity_path_1537" fill="none" stroke="white" stroke-width="2"
+                      d="M1311,158C1331,158,1331,200,1351,200"></path>
+                <path id="kity_path_1538" fill="none" stroke="white" stroke-width="2"
+                      d="M1207,158C1227,158,1227,158,1247,158"></path>
+                <path id="kity_path_1539" fill="none" stroke="white" stroke-width="2"
+                      d="M1134,95C1154,95,1154,158,1174,158"></path>
+                <path id="kity_path_1540" fill="none" stroke="white" stroke-width="2"
+                      d="M1036,95C1056,95,1056,95,1076,95"></path>
+                <path id="kity_path_1541" fill="none" stroke="white" stroke-width="2"
+                      d="M920,95C940,95,940,95,960,95"></path>
+                <path id="kity_path_1542" fill="none" stroke="white" stroke-width="2"
+                      d="M877,237C881.5,237,881.5,95,886,95"></path>
+                <path id="kity_path_1543" fill="none" stroke="white" stroke-width="2"
+                      d="M800,237C803.5,237,803.5,237,807,237"></path>
+                <path id="kity_path_1544" fill="none" stroke="white" stroke-width="2"
+                      d="M743,332C747.5,332,747.5,332,752,332"></path>
+            </g>
+            <g id="minder_node1">
+                <path id="kity_path_54" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M29.5,160.5h88a5,5,0,0,1,5,5v44a5,5,0,0,1,-5,5h-88a5,5,0,0,1,-5,-5v-44a5,5,0,0,1,5,-5z"></path>
+                <path id="node_outline1" fill="#e9df98" stroke="#e9df98"
+                      d="M25.5,155.5h88a5,5,0,0,1,5,5v44a5,5,0,0,1,-5,5h-88a5,5,0,0,1,-5,-5v-44a5,5,0,0,1,5,-5z"
+                      stroke-width="3"></path>
+                <g id="node_text1" fill="#430">
+                    <text id="kity_text_22" text-rendering="inherit" font-size="24" dy=".8em" y="166.90000009536743"
+                          x="45.5">开局
+                    </text>
+                </g>
+            </g>
+            <g id="kity_g_14" display="none">
+                <path id="kity_path_15" fill="rgba(0, 255, 0, .5)" stroke="none" d="M1139.5,310.5h34v10h-34z"></path>
+                <path id="kity_path_16" fill="none" stroke="#0f0" d="M1139.5,320.5L1173.5,320.5"
+                      stroke-width="1"></path>
+            </g>
+            <g id="minder_node5" opacity="1">
+                <path id="kity_path_63" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M143.5,175.5h112a5,5,0,0,1,5,5v18a5,5,0,0,1,-5,5h-112a5,5,0,0,1,-5,-5v-18a5,5,0,0,1,5,-5z"></path>
+                <g id="node_expander4" style="cursor: pointer;">
+                    <path id="kity_path_61" fill="white" stroke="gray"
+                          d="M134.5,184.5A6,6,0,1,1,122.5,184.5A6,6,0,1,1,134.5,184.5"></path>
+                    <path id="kity_path_62" fill="none" stroke="gray" d="M124,184.5L133,184.5"></path>
+                </g>
+                <path id="node_outline5" fill="#a4c5c0" stroke="#a4c5c0"
+                      d="M139.5,170.5h112a5,5,0,0,1,5,5v18a5,5,0,0,1,-5,5h-112a5,5,0,0,1,-5,-5v-18a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text5" fill="#333">
+                    <text id="kity_text_58" text-rendering="inherit" font-size="16" dy=".8em" y="174.09999990463257"
+                          x="154.5">读取单数据
+                    </text>
+                </g>
+            </g>
+            <g id="kity_g_12" display="none">
+                <path id="kity_path_13" fill="none" stroke="yellow"
+                      d="M330.5,267.5h35a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-35a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"
+                      stroke-width="4"></path>
+            </g>
+            <g id="minder_node17" opacity="1">
+                <path id="kity_path_174" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M730,320h0a17,17,0,0,1,17,17v0a17,17,0,0,1,-17,17h0a17,17,0,0,1,-17,-17v0a17,17,0,0,1,17,-17z"
+                      display="none"></path>
+                <g id="node_expander16" style="cursor: pointer;">
+                    <path id="kity_path_172" fill="white" stroke="gray"
+                          d="M708.5,331.5A6,6,0,1,1,696.5,331.5A6,6,0,1,1,708.5,331.5"></path>
+                    <path id="kity_path_173" fill="none" stroke="gray" d="M698,331.5L707,331.5"></path>
+                </g>
+                <path id="node_outline17" fill="white" stroke="white"
+                      d="M713.5,320.5h24a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-24a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text17" fill="black">
+                    <text id="kity_text_169" text-rendering="inherit" font-size="12" dy=".8em" y="323.7000000476837"
+                          x="718.5">否
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node16" opacity="1">
+                <path id="kity_path_165" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M730,224h0a17,17,0,0,1,17,17v0a17,17,0,0,1,-17,17h0a17,17,0,0,1,-17,-17v0a17,17,0,0,1,17,-17z"
+                      display="none"></path>
+                <g id="node_expander15" style="cursor: pointer;">
+                    <path id="kity_path_163" fill="white" stroke="gray"
+                          d="M708.5,235.5A6,6,0,1,1,696.5,235.5A6,6,0,1,1,708.5,235.5"></path>
+                    <path id="kity_path_164" fill="none" stroke="gray" d="M698,235.5L707,235.5"></path>
+                </g>
+                <path id="node_outline16" fill="white" stroke="white"
+                      d="M713.5,224.5h24a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-24a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text16" fill="black">
+                    <text id="kity_text_160" text-rendering="inherit" font-size="12" dy=".8em" y="227.70000004768372"
+                          x="718.5">是
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node13" opacity="1">
+                <path id="kity_path_138" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M665,249h0a40,40,0,0,1,40,40v0a40,40,0,0,1,-40,40h0a40,40,0,0,1,-40,-40v0a40,40,0,0,1,40,-40z"
+                      display="none"></path>
+                <g id="node_expander12" style="cursor: pointer;">
+                    <path id="kity_path_136" fill="white" stroke="gray"
+                          d="M617.5,283.5A6,6,0,1,1,605.5,283.5A6,6,0,1,1,617.5,283.5"></path>
+                    <path id="kity_path_137" fill="none" stroke="gray" d="M607,283.5L616,283.5"></path>
+                </g>
+                <path id="node_outline13" fill="white" stroke="white"
+                      d="M622.5,272.5h72a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-72a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text13" fill="black">
+                    <text id="kity_text_133" text-rendering="inherit" font-size="12" dy=".8em" y="275.7000000476837"
+                          x="627.5">是否可下单
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node28" opacity="1">
+                <path id="kity_path_290" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M566,237h0a50,50,0,0,1,50,50v0a50,50,0,0,1,-50,50h0a50,50,0,0,1,-50,-50v0a50,50,0,0,1,50,-50z"
+                      display="none"></path>
+                <g id="node_expander27" style="cursor: pointer;">
+                    <path id="kity_path_288" fill="white" stroke="gray"
+                          d="M508.5,281.5A6,6,0,1,1,496.5,281.5A6,6,0,1,1,508.5,281.5"></path>
+                    <path id="kity_path_289" fill="none" stroke="gray" d="M498,281.5L507,281.5"></path>
+                </g>
+                <path id="node_outline28" fill="white" stroke="white"
+                      d="M513.5,270.5h90a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-90a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text28" fill="black">
+                    <text id="kity_text_285" text-rendering="inherit" font-size="12" dy=".8em" y="273.7000000476837"
+                          x="518.5">保存最新走势1
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node12" opacity="1">
+                <path id="kity_path_129" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M469,247h0a40,40,0,0,1,40,40v0a40,40,0,0,1,-40,40h0a40,40,0,0,1,-40,-40v0a40,40,0,0,1,40,-40z"
+                      display="none"></path>
+                <g id="node_expander11" style="cursor: pointer;">
+                    <path id="kity_path_127" fill="white" stroke="gray"
+                          d="M421.5,281.5A6,6,0,1,1,409.5,281.5A6,6,0,1,1,421.5,281.5"></path>
+                    <path id="kity_path_128" fill="none" stroke="gray" d="M411,281.5L420,281.5"></path>
+                </g>
+                <path id="node_outline12" fill="white" stroke="white"
+                      d="M426.5,270.5h72a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-72a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text12" fill="black">
+                    <text id="kity_text_124" text-rendering="inherit" font-size="12" dy=".8em" y="273.7000000476837"
+                          x="431.5">识别到走势
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node9" opacity="1">
+                <path id="kity_path_99" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M375,238h0a48,48,0,0,1,48,48v0a48,48,0,0,1,-48,48h0a48,48,0,0,1,-48,-48v0a48,48,0,0,1,48,-48z"
+                      display="none"></path>
+                <g id="node_expander8" style="cursor: pointer;">
+                    <path id="kity_path_97" fill="white" stroke="gray"
+                          d="M319.5,280.5A6,6,0,1,1,307.5,280.5A6,6,0,1,1,319.5,280.5"></path>
+                    <path id="kity_path_98" fill="none" stroke="gray" d="M309,280.5L318,280.5"></path>
+                </g>
+                <path id="node_outline9" fill="white" stroke="white"
+                      d="M324.5,269.5h87a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-87a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text9" fill="black">
+                    <text id="kity_text_94" text-rendering="inherit" font-size="12" dy=".8em" y="272.7000000476837"
+                          x="329.5">进入FOR循环&#xa0;
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node6" opacity="1">
+                <path id="kity_path_72" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M299,264h0a22,22,0,0,1,22,22v0a22,22,0,0,1,-22,22h0a22,22,0,0,1,-22,-22v0a22,22,0,0,1,22,-22z"
+                      display="none"></path>
+                <g id="node_expander5" style="cursor: pointer;">
+                    <path id="kity_path_70" fill="white" stroke="gray"
+                          d="M271.5,280.5A6,6,0,1,1,259.5,280.5A6,6,0,1,1,271.5,280.5"></path>
+                    <path id="kity_path_71" fill="none" stroke="gray" d="M261,280.5L270,280.5"></path>
+                </g>
+                <path id="node_outline6" fill="white" stroke="white"
+                      d="M276.5,269.5h35a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-35a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text6" fill="black">
+                    <text id="kity_text_67" text-rendering="inherit" font-size="12" dy=".8em" y="272.7000000476837"
+                          x="281.5">正确
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node11" opacity="1">
+                <path id="kity_path_117" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M385,99h0a22,22,0,0,1,22,22v0a22,22,0,0,1,-22,22h0a22,22,0,0,1,-22,-22v0a22,22,0,0,1,22,-22z"
+                      display="none"></path>
+                <g id="node_expander10" style="cursor: pointer;" display="none">
+                    <path id="kity_path_115" fill="white" stroke="gray"
+                          d="M357.5,115.5A6,6,0,1,1,345.5,115.5A6,6,0,1,1,357.5,115.5"></path>
+                    <path id="kity_path_116" fill="none" stroke="gray"></path>
+                </g>
+                <path id="node_outline11" fill="white" stroke="white"
+                      d="M362.5,104.5h35a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-35a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text11" fill="black">
+                    <text id="kity_text_112" text-rendering="inherit" font-size="12" dy=".8em" y="107.70000004768372"
+                          x="367.5">退出
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node8" opacity="1">
+                <path id="kity_path_90" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M299.5,99h0a22,22,0,0,1,22,22v0a22,22,0,0,1,-22,22h0a22,22,0,0,1,-22,-22v0a22,22,0,0,1,22,-22z"
+                      display="none"></path>
+                <g id="node_expander7" style="cursor: pointer;">
+                    <path id="kity_path_88" fill="white" stroke="gray"
+                          d="M271.5,115.5A6,6,0,1,1,259.5,115.5A6,6,0,1,1,271.5,115.5"></path>
+                    <path id="kity_path_89" fill="none" stroke="gray" d="M261,115.5L270,115.5"></path>
+                </g>
+                <path id="node_outline8" fill="white" stroke="white"
+                      d="M276.5,104.5h36a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-36a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text8" fill="black">
+                    <text id="kity_text_85" text-rendering="inherit" font-size="12" dy=".8em" y="107.70000004768372"
+                          x="281.5">错误
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node19" opacity="1">
+                <path id="kity_path_192" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M782,220h0a22,22,0,0,1,22,22v0a22,22,0,0,1,-22,22h0a22,22,0,0,1,-22,-22v0a22,22,0,0,1,22,-22z"
+                      display="none"></path>
+                <g id="node_expander18" style="cursor: pointer;">
+                    <path id="kity_path_190" fill="white" stroke="gray"
+                          d="M754.5,236.5A6,6,0,1,1,742.5,236.5A6,6,0,1,1,754.5,236.5"></path>
+                    <path id="kity_path_191" fill="none" stroke="gray" d="M744,236.5L753,236.5"></path>
+                </g>
+                <path id="node_outline19" fill="white" stroke="white"
+                      d="M759.5,225.5h35a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-35a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text19" fill="black">
+                    <text id="kity_text_187" text-rendering="inherit" font-size="12" dy=".8em" y="228.70000004768372"
+                          x="764.5">下双
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node50">
+                <path id="kity_path_496" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1229,146h0a53,53,0,0,1,53,53v0a53,53,0,0,1,-53,53h0a53,53,0,0,1,-53,-53v0a53,53,0,0,1,53,-53z"
+                      display="none"></path>
+                <g id="node_expander49" style="cursor: pointer;" display="none">
+                    <path id="kity_path_494" fill="white" stroke="gray"
+                          d="M1168.5,193.5A6,6,0,1,1,1156.5,193.5A6,6,0,1,1,1168.5,193.5"></path>
+                    <path id="kity_path_495" fill="none" stroke="gray"></path>
+                </g>
+                <path id="node_outline50" fill="white" stroke="white"
+                      d="M1173.5,182.5h96a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-96a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text50" fill="black">
+                    <text id="kity_text_491" text-rendering="inherit" font-size="12" dy=".8em" y="185.70000004768372"
+                          x="1178.5">跳到读取单数据
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node45" opacity="1">
+                <path id="kity_path_450" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1117,183h0a16,16,0,0,1,16,16v0a16,16,0,0,1,-16,16h0a16,16,0,0,1,-16,-16v0a16,16,0,0,1,16,-16z"
+                      display="none"></path>
+                <g id="node_expander44" style="cursor: pointer;">
+                    <path id="kity_path_448" fill="white" stroke="gray"
+                          d="M1096.5,193.5A6,6,0,1,1,1084.5,193.5A6,6,0,1,1,1096.5,193.5"></path>
+                    <path id="kity_path_449" fill="none" stroke="gray" d="M1086,193.5L1095,193.5"></path>
+                </g>
+                <path id="node_outline45" fill="white" stroke="white"
+                      d="M1101.5,182.5h22a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-22a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text45" fill="black">
+                    <text id="kity_text_445" text-rendering="inherit" font-size="12" dy=".8em" y="185.70000004768372"
+                          x="1106.5">中
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node47">
+                <path id="kity_path_468" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1222.5,207h0a34,34,0,0,1,34,34v0a34,34,0,0,1,-34,34h0a34,34,0,0,1,-34,-34v0a34,34,0,0,1,34,-34z"
+                      display="none"></path>
+                <g id="node_expander46" style="cursor: pointer;" display="none">
+                    <path id="kity_path_466" fill="white" stroke="gray"
+                          d="M1181.5,235.5A6,6,0,1,1,1169.5,235.5A6,6,0,1,1,1181.5,235.5"></path>
+                    <path id="kity_path_467" fill="none" stroke="gray"></path>
+                </g>
+                <path id="node_outline47" fill="white" stroke="white"
+                      d="M1186.5,224.5h59a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-59a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text47" fill="black">
+                    <text id="kity_text_463" text-rendering="inherit" font-size="12" dy=".8em" y="227.70000004768372"
+                          x="1191.5">跳到FOR
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node46" opacity="1">
+                <path id="kity_path_459" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1124,219h0a22,22,0,0,1,22,22v0a22,22,0,0,1,-22,22h0a22,22,0,0,1,-22,-22v0a22,22,0,0,1,22,-22z"
+                      display="none"></path>
+                <g id="node_expander45" style="cursor: pointer;">
+                    <path id="kity_path_457" fill="white" stroke="gray"
+                          d="M1096.5,235.5A6,6,0,1,1,1084.5,235.5A6,6,0,1,1,1096.5,235.5"></path>
+                    <path id="kity_path_458" fill="none" stroke="gray" d="M1086,235.5L1095,235.5"></path>
+                </g>
+                <path id="node_outline46" fill="white" stroke="white"
+                      d="M1101.5,224.5h35a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-35a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text46" fill="black">
+                    <text id="kity_text_454" text-rendering="inherit" font-size="12" dy=".8em" y="227.70000004768372"
+                          x="1106.5">不中
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node49">
+                <path id="kity_path_486" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1207.5,252h0a31,31,0,0,1,31,31v0a31,31,0,0,1,-31,31h0a31,31,0,0,1,-31,-31v0a31,31,0,0,1,31,-31z"
+                      display="none"></path>
+                <g id="node_expander48" style="cursor: pointer;" display="none">
+                    <path id="kity_path_484" fill="white" stroke="gray"
+                          d="M1169.5,277.5A6,6,0,1,1,1157.5,277.5A6,6,0,1,1,1169.5,277.5"></path>
+                    <path id="kity_path_485" fill="none" stroke="gray"></path>
+                </g>
+                <path id="node_outline49" fill="white" stroke="white"
+                      d="M1174.5,266.5h54a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-54a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text49" fill="black">
+                    <text id="kity_text_481" text-rendering="inherit" font-size="12" dy=".8em" y="269.7000000476837"
+                          x="1179.5">继续下1
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node48" opacity="1">
+                <path id="kity_path_477" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1117.5,266h0a17,17,0,0,1,17,17v0a17,17,0,0,1,-17,17h0a17,17,0,0,1,-17,-17v0a17,17,0,0,1,17,-17z"
+                      display="none"></path>
+                <g id="node_expander47" style="cursor: pointer;">
+                    <path id="kity_path_475" fill="white" stroke="gray"
+                          d="M1096.5,277.5A6,6,0,1,1,1084.5,277.5A6,6,0,1,1,1096.5,277.5"></path>
+                    <path id="kity_path_476" fill="none" stroke="gray" d="M1086,277.5L1095,277.5"></path>
+                </g>
+                <path id="node_outline48" fill="white" stroke="white"
+                      d="M1101.5,266.5h23a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-23a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text48" fill="black">
+                    <text id="kity_text_472" text-rendering="inherit" font-size="12" dy=".8em" y="269.7000000476837"
+                          x="1106.5">和
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node29">
+                <path id="kity_path_299" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1030.5,210h0a31,31,0,0,1,31,31v0a31,31,0,0,1,-31,31h0a31,31,0,0,1,-31,-31v0a31,31,0,0,1,31,-31z"
+                      display="none"></path>
+                <g id="node_expander28" style="cursor: pointer;">
+                    <path id="kity_path_297" fill="white" stroke="gray"
+                          d="M992.5,235.5A6,6,0,1,1,980.5,235.5A6,6,0,1,1,992.5,235.5"></path>
+                    <path id="kity_path_298" fill="none" stroke="gray" d="M982,235.5L991,235.5"></path>
+                </g>
+                <path id="node_outline29" fill="white" stroke="white"
+                      d="M997.5,224.5h54a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-54a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text29" fill="black">
+                    <text id="kity_text_294" text-rendering="inherit" font-size="12" dy=".8em" y="227.70000004768372"
+                          x="1002.5">继续下1
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node21" opacity="1">
+                <path id="kity_path_211" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M940.5,224h0a17,17,0,0,1,17,17v0a17,17,0,0,1,-17,17h0a17,17,0,0,1,-17,-17v0a17,17,0,0,1,17,-17z"
+                      display="none"></path>
+                <g id="node_expander20" style="cursor: pointer;">
+                    <path id="kity_path_209" fill="white" stroke="gray"
+                          d="M919.5,235.5A6,6,0,1,1,907.5,235.5A6,6,0,1,1,919.5,235.5"></path>
+                    <path id="kity_path_210" fill="none" stroke="gray" d="M909,235.5L918,235.5"></path>
+                </g>
+                <path id="node_outline21" fill="white" stroke="white"
+                      d="M924.5,224.5h23a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-23a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text21" fill="black">
+                    <text id="kity_text_206" text-rendering="inherit" font-size="12" dy=".8em" y="227.70000004768372"
+                          x="929.5">和
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node36">
+                <path id="kity_path_363" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1323,275h0a53,53,0,0,1,53,53v0a53,53,0,0,1,-53,53h0a53,53,0,0,1,-53,-53v0a53,53,0,0,1,53,-53z"
+                      display="none"></path>
+                <g id="node_expander35" style="cursor: pointer;" display="none">
+                    <path id="kity_path_361" fill="white" stroke="gray"
+                          d="M1262.5,322.5A6,6,0,1,1,1250.5,322.5A6,6,0,1,1,1262.5,322.5"></path>
+                    <path id="kity_path_362" fill="none" stroke="gray"></path>
+                </g>
+                <path id="node_outline36" fill="white" stroke="white"
+                      d="M1267.5,311.5h95a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-95a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text36" fill="black">
+                    <text id="kity_text_358" text-rendering="inherit" font-size="12" dy=".8em" y="314.7000000476837"
+                          x="1272.5">跳到下一次FOR
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node32" opacity="1">
+                <path id="kity_path_327" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1205,306h0a22,22,0,0,1,22,22v0a22,22,0,0,1,-22,22h0a22,22,0,0,1,-22,-22v0a22,22,0,0,1,22,-22z"
+                      display="none"></path>
+                <g id="node_expander31" style="cursor: pointer;">
+                    <path id="kity_path_325" fill="white" stroke="gray"
+                          d="M1177.5,322.5A6,6,0,1,1,1165.5,322.5A6,6,0,1,1,1177.5,322.5"></path>
+                    <path id="kity_path_326" fill="none" stroke="gray" d="M1167,322.5L1176,322.5"></path>
+                </g>
+                <path id="node_outline32" fill="white" stroke="white"
+                      d="M1182.5,311.5h35a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-35a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text32" fill="black">
+                    <text id="kity_text_322" text-rendering="inherit" font-size="12" dy=".8em" y="314.7000000476837"
+                          x="1187.5">不中
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node37" opacity="1">
+                <path id="kity_path_372" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1314,335h0a53,53,0,0,1,53,53v0a53,53,0,0,1,-53,53h0a53,53,0,0,1,-53,-53v0a53,53,0,0,1,53,-53z"
+                      display="none"></path>
+                <g id="node_expander36" style="cursor: pointer;" display="none">
+                    <path id="kity_path_370" fill="white" stroke="gray"
+                          d="M1253.5,382.5A6,6,0,1,1,1241.5,382.5A6,6,0,1,1,1253.5,382.5"></path>
+                    <path id="kity_path_371" fill="none" stroke="gray"></path>
+                </g>
+                <path id="node_outline37" fill="white" stroke="white"
+                      d="M1258.5,371.5h96a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-96a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text37" fill="black">
+                    <text id="kity_text_367" text-rendering="inherit" font-size="12" dy=".8em" y="374.7000000476837"
+                          x="1263.5">跳到读取单数据
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node33" opacity="1">
+                <path id="kity_path_336" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1202,372h0a16,16,0,0,1,16,16v0a16,16,0,0,1,-16,16h0a16,16,0,0,1,-16,-16v0a16,16,0,0,1,16,-16z"
+                      display="none"></path>
+                <g id="node_expander32" style="cursor: pointer;">
+                    <path id="kity_path_334" fill="white" stroke="gray"
+                          d="M1181.5,382.5A6,6,0,1,1,1169.5,382.5A6,6,0,1,1,1181.5,382.5"></path>
+                    <path id="kity_path_335" fill="none" stroke="gray" d="M1171,382.5L1180,382.5"></path>
+                </g>
+                <path id="node_outline33" fill="white" stroke="white"
+                      d="M1186.5,371.5h22a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-22a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text33" fill="black">
+                    <text id="kity_text_331" text-rendering="inherit" font-size="12" dy=".8em" y="374.7000000476837"
+                          x="1191.5">中
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node56">
+                <path id="kity_path_580" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1500,359h0a53,53,0,0,1,53,53v0a53,53,0,0,1,-53,53h0a53,53,0,0,1,-53,-53v0a53,53,0,0,1,53,-53z"
+                      display="none"></path>
+                <g id="node_expander55" style="cursor: pointer;" display="none">
+                    <path id="kity_path_578" fill="white" stroke="gray"
+                          d="M1439.5,406.5A6,6,0,1,1,1427.5,406.5A6,6,0,1,1,1439.5,406.5"></path>
+                    <path id="kity_path_579" fill="none" stroke="gray"></path>
+                </g>
+                <path id="node_outline56" fill="white" stroke="white"
+                      d="M1444.5,395.5h95a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-95a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text56" fill="black">
+                    <text id="kity_text_575" text-rendering="inherit" font-size="12" dy=".8em" y="398.7000000476837"
+                          x="1449.5">跳到下一次FOR
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node52" opacity="1">
+                <path id="kity_path_544" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1382,390h0a22,22,0,0,1,22,22v0a22,22,0,0,1,-22,22h0a22,22,0,0,1,-22,-22v0a22,22,0,0,1,22,-22z"
+                      display="none"></path>
+                <g id="node_expander51" style="cursor: pointer;">
+                    <path id="kity_path_542" fill="white" stroke="gray"
+                          d="M1354.5,406.5A6,6,0,1,1,1342.5,406.5A6,6,0,1,1,1354.5,406.5"></path>
+                    <path id="kity_path_543" fill="none" stroke="gray" d="M1344,406.5L1353,406.5"></path>
+                </g>
+                <path id="node_outline52" fill="white" stroke="white"
+                      d="M1359.5,395.5h35a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-35a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text52" fill="black">
+                    <text id="kity_text_539" text-rendering="inherit" font-size="12" dy=".8em" y="398.7000000476837"
+                          x="1364.5">不中
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node54">
+                <path id="kity_path_562" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1487,401h0a53,53,0,0,1,53,53v0a53,53,0,0,1,-53,53h0a53,53,0,0,1,-53,-53v0a53,53,0,0,1,53,-53z"
+                      display="none"></path>
+                <g id="node_expander53" style="cursor: pointer;" display="none">
+                    <path id="kity_path_560" fill="white" stroke="gray"
+                          d="M1426.5,448.5A6,6,0,1,1,1414.5,448.5A6,6,0,1,1,1426.5,448.5"></path>
+                    <path id="kity_path_561" fill="none" stroke="gray"></path>
+                </g>
+                <path id="node_outline54" fill="white" stroke="white"
+                      d="M1431.5,437.5h96a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-96a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text54" fill="black">
+                    <text id="kity_text_557" text-rendering="inherit" font-size="12" dy=".8em" y="440.7000000476837"
+                          x="1436.5">跳到读取单数据
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node53" opacity="1">
+                <path id="kity_path_553" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1375,438h0a16,16,0,0,1,16,16v0a16,16,0,0,1,-16,16h0a16,16,0,0,1,-16,-16v0a16,16,0,0,1,16,-16z"
+                      display="none"></path>
+                <g id="node_expander52" style="cursor: pointer;">
+                    <path id="kity_path_551" fill="white" stroke="gray"
+                          d="M1354.5,448.5A6,6,0,1,1,1342.5,448.5A6,6,0,1,1,1354.5,448.5"></path>
+                    <path id="kity_path_552" fill="none" stroke="gray" d="M1344,448.5L1353,448.5"></path>
+                </g>
+                <path id="node_outline53" fill="white" stroke="white"
+                      d="M1359.5,437.5h22a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-22a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text53" fill="black">
+                    <text id="kity_text_548" text-rendering="inherit" font-size="12" dy=".8em" y="440.7000000476837"
+                          x="1364.5">中
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node57" opacity="1">
+                <path id="kity_path_589" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1465.5,465h0a31,31,0,0,1,31,31v0a31,31,0,0,1,-31,31h0a31,31,0,0,1,-31,-31v0a31,31,0,0,1,31,-31z"
+                      display="none"></path>
+                <g id="node_expander56" style="cursor: pointer;" display="none">
+                    <path id="kity_path_587" fill="white" stroke="gray"
+                          d="M1427.5,490.5A6,6,0,1,1,1415.5,490.5A6,6,0,1,1,1427.5,490.5"></path>
+                    <path id="kity_path_588" fill="none" stroke="gray" d="M1417,490.5L1426,490.5"></path>
+                </g>
+                <path id="node_outline57" fill="white" stroke="white"
+                      d="M1432.5,479.5h54a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-54a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text57" fill="black">
+                    <text id="kity_text_584" text-rendering="inherit" font-size="12" dy=".8em" y="482.7000000476837"
+                          x="1437.5">继续下2
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node55" opacity="1">
+                <path id="kity_path_571" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1375.5,479h0a17,17,0,0,1,17,17v0a17,17,0,0,1,-17,17h0a17,17,0,0,1,-17,-17v0a17,17,0,0,1,17,-17z"
+                      display="none"></path>
+                <g id="node_expander54" style="cursor: pointer;">
+                    <path id="kity_path_569" fill="white" stroke="gray"
+                          d="M1354.5,490.5A6,6,0,1,1,1342.5,490.5A6,6,0,1,1,1354.5,490.5"></path>
+                    <path id="kity_path_570" fill="none" stroke="gray" d="M1344,490.5L1353,490.5"></path>
+                </g>
+                <path id="node_outline55" fill="white" stroke="white"
+                      d="M1359.5,479.5h23a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-23a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text55" fill="black">
+                    <text id="kity_text_566" text-rendering="inherit" font-size="12" dy=".8em" y="482.7000000476837"
+                          x="1364.5">和
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node51">
+                <path id="kity_path_535" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1288.5,423h0a31,31,0,0,1,31,31v0a31,31,0,0,1,-31,31h0a31,31,0,0,1,-31,-31v0a31,31,0,0,1,31,-31z"
+                      display="none"></path>
+                <g id="node_expander50" style="cursor: pointer;">
+                    <path id="kity_path_533" fill="white" stroke="gray"
+                          d="M1250.5,448.5A6,6,0,1,1,1238.5,448.5A6,6,0,1,1,1250.5,448.5"></path>
+                    <path id="kity_path_534" fill="none" stroke="gray" d="M1240,448.5L1249,448.5"></path>
+                </g>
+                <path id="node_outline51" fill="white" stroke="white"
+                      d="M1255.5,437.5h54a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-54a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text51" fill="black">
+                    <text id="kity_text_530" text-rendering="inherit" font-size="12" dy=".8em" y="440.7000000476837"
+                          x="1260.5">继续下2
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node44" opacity="1">
+                <path id="kity_path_441" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1198.5,437h0a17,17,0,0,1,17,17v0a17,17,0,0,1,-17,17h0a17,17,0,0,1,-17,-17v0a17,17,0,0,1,17,-17z"
+                      display="none"></path>
+                <g id="node_expander43" style="cursor: pointer;">
+                    <path id="kity_path_439" fill="white" stroke="gray"
+                          d="M1177.5,448.5A6,6,0,1,1,1165.5,448.5A6,6,0,1,1,1177.5,448.5"></path>
+                    <path id="kity_path_440" fill="none" stroke="gray" d="M1167,448.5L1176,448.5"></path>
+                </g>
+                <path id="node_outline44" fill="white" stroke="white"
+                      d="M1182.5,437.5h23a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-23a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text44" fill="black">
+                    <text id="kity_text_436" text-rendering="inherit" font-size="12" dy=".8em" y="440.7000000476837"
+                          x="1187.5">和
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node31">
+                <path id="kity_path_318" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1113.5,363h0a28,28,0,0,1,28,28v0a28,28,0,0,1,-28,28h0a28,28,0,0,1,-28,-28v0a28,28,0,0,1,28,-28z"
+                      display="none"></path>
+                <g id="node_expander30" style="cursor: pointer;">
+                    <path id="kity_path_316" fill="white" stroke="gray"
+                          d="M1079.5,385.5A6,6,0,1,1,1067.5,385.5A6,6,0,1,1,1079.5,385.5"></path>
+                    <path id="kity_path_317" fill="none" stroke="gray" d="M1069,385.5L1078,385.5"></path>
+                </g>
+                <path id="node_outline31" fill="white" stroke="white"
+                      d="M1084.5,374.5h48a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text31" fill="black">
+                    <text id="kity_text_313" text-rendering="inherit" font-size="12" dy=".8em" y="377.7000000476837"
+                          x="1089.5">单下龙
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node35">
+                <path id="kity_path_354" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1008,354h0a37,37,0,0,1,37,37v0a37,37,0,0,1,-37,37h0a37,37,0,0,1,-37,-37v0a37,37,0,0,1,37,-37z"
+                      display="none"></path>
+                <g id="node_expander34" style="cursor: pointer;">
+                    <path id="kity_path_352" fill="white" stroke="gray"
+                          d="M963.5,385.5A6,6,0,1,1,951.5,385.5A6,6,0,1,1,963.5,385.5"></path>
+                    <path id="kity_path_353" fill="none" stroke="gray" d="M953,385.5L962,385.5"></path>
+                </g>
+                <path id="node_outline35" fill="white" stroke="white"
+                      d="M968.5,374.5h66a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-66a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text35" fill="black">
+                    <text id="kity_text_349" text-rendering="inherit" font-size="12" dy=".8em" y="377.7000000476837"
+                          x="973.5">保存走势2
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node22" opacity="1">
+                <path id="kity_path_220" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M911,374h0a17,17,0,0,1,17,17v0a17,17,0,0,1,-17,17h0a17,17,0,0,1,-17,-17v0a17,17,0,0,1,17,-17z"
+                      display="none"></path>
+                <g id="node_expander21" style="cursor: pointer;">
+                    <path id="kity_path_218" fill="white" stroke="gray"
+                          d="M889.5,385.5A6,6,0,1,1,877.5,385.5A6,6,0,1,1,889.5,385.5"></path>
+                    <path id="kity_path_219" fill="none" stroke="gray" d="M879,385.5L888,385.5"></path>
+                </g>
+                <path id="node_outline22" fill="white" stroke="white"
+                      d="M894.5,374.5h24a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-24a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text22" fill="black">
+                    <text id="kity_text_215" text-rendering="inherit" font-size="12" dy=".8em" y="377.7000000476837"
+                          x="899.5">龙
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node42">
+                <path id="kity_path_417" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1319,-16h0a53,53,0,0,1,53,53v0a53,53,0,0,1,-53,53h0a53,53,0,0,1,-53,-53v0a53,53,0,0,1,53,-53z"
+                      display="none"></path>
+                <g id="node_expander41" style="cursor: pointer;" display="none">
+                    <path id="kity_path_415" fill="white" stroke="gray"
+                          d="M1258.5,31.5A6,6,0,1,1,1246.5,31.5A6,6,0,1,1,1258.5,31.5"></path>
+                    <path id="kity_path_416" fill="none" stroke="gray"></path>
+                </g>
+                <path id="node_outline42" fill="white" stroke="white"
+                      d="M1263.5,20.5h95a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-95a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text42" fill="black">
+                    <text id="kity_text_412" text-rendering="inherit" font-size="12" dy=".8em" y="23.700000047683716"
+                          x="1268.5">跳到一下次FOR
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node40" opacity="1">
+                <path id="kity_path_399" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1201,15h0a22,22,0,0,1,22,22v0a22,22,0,0,1,-22,22h0a22,22,0,0,1,-22,-22v0a22,22,0,0,1,22,-22z"
+                      display="none"></path>
+                <g id="node_expander39" style="cursor: pointer;">
+                    <path id="kity_path_397" fill="white" stroke="gray"
+                          d="M1173.5,31.5A6,6,0,1,1,1161.5,31.5A6,6,0,1,1,1173.5,31.5"></path>
+                    <path id="kity_path_398" fill="none" stroke="gray" d="M1163,31.5L1172,31.5"></path>
+                </g>
+                <path id="node_outline40" fill="white" stroke="white"
+                      d="M1178.5,20.5h35a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-35a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text40" fill="black">
+                    <text id="kity_text_394" text-rendering="inherit" font-size="12" dy=".8em" y="23.700000047683716"
+                          x="1183.5">不中
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node43" opacity="1">
+                <path id="kity_path_426" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1299.5,54h0a46,46,0,0,1,46,46v0a46,46,0,0,1,-46,46h0a46,46,0,0,1,-46,-46v0a46,46,0,0,1,46,-46z"
+                      display="none"></path>
+                <g id="node_expander42" style="cursor: pointer;" display="none">
+                    <path id="kity_path_424" fill="white" stroke="gray"
+                          d="M1245.5,94.5A6,6,0,1,1,1233.5,94.5A6,6,0,1,1,1245.5,94.5"></path>
+                    <path id="kity_path_425" fill="none" stroke="gray"></path>
+                </g>
+                <path id="node_outline43" fill="white" stroke="white"
+                      d="M1250.5,83.5h84a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-84a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text43" fill="black">
+                    <text id="kity_text_421" text-rendering="inherit" font-size="12" dy=".8em" y="86.70000004768372"
+                          x="1255.5">跳到读取数据
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node41" opacity="1">
+                <path id="kity_path_408" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1194,84h0a16,16,0,0,1,16,16v0a16,16,0,0,1,-16,16h0a16,16,0,0,1,-16,-16v0a16,16,0,0,1,16,-16z"
+                      display="none"></path>
+                <g id="node_expander40" style="cursor: pointer;">
+                    <path id="kity_path_406" fill="white" stroke="gray"
+                          d="M1173.5,94.5A6,6,0,1,1,1161.5,94.5A6,6,0,1,1,1173.5,94.5"></path>
+                    <path id="kity_path_407" fill="none" stroke="gray" d="M1163,94.5L1172,94.5"></path>
+                </g>
+                <path id="node_outline41" fill="white" stroke="white"
+                      d="M1178.5,83.5h22a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-22a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text41" fill="black">
+                    <text id="kity_text_403" text-rendering="inherit" font-size="12" dy=".8em" y="86.70000004768372"
+                          x="1183.5">中
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node62">
+                <path id="kity_path_634" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1496,68h0a53,53,0,0,1,53,53v0a53,53,0,0,1,-53,53h0a53,53,0,0,1,-53,-53v0a53,53,0,0,1,53,-53z"
+                      display="none"></path>
+                <g id="node_expander61" style="cursor: pointer;" display="none">
+                    <path id="kity_path_632" fill="white" stroke="gray"
+                          d="M1435.5,115.5A6,6,0,1,1,1423.5,115.5A6,6,0,1,1,1435.5,115.5"></path>
+                    <path id="kity_path_633" fill="none" stroke="gray"></path>
+                </g>
+                <path id="node_outline62" fill="white" stroke="white"
+                      d="M1440.5,104.5h95a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-95a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text62" fill="black">
+                    <text id="kity_text_629" text-rendering="inherit" font-size="12" dy=".8em" y="107.70000004768372"
+                          x="1445.5">跳到下一次FOR
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node61" opacity="1">
+                <path id="kity_path_625" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1378,99h0a22,22,0,0,1,22,22v0a22,22,0,0,1,-22,22h0a22,22,0,0,1,-22,-22v0a22,22,0,0,1,22,-22z"
+                      display="none"></path>
+                <g id="node_expander60" style="cursor: pointer;">
+                    <path id="kity_path_623" fill="white" stroke="gray"
+                          d="M1350.5,115.5A6,6,0,1,1,1338.5,115.5A6,6,0,1,1,1350.5,115.5"></path>
+                    <path id="kity_path_624" fill="none" stroke="gray" d="M1340,115.5L1349,115.5"></path>
+                </g>
+                <path id="node_outline61" fill="white" stroke="white"
+                      d="M1355.5,104.5h35a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-35a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text61" fill="black">
+                    <text id="kity_text_620" text-rendering="inherit" font-size="12" dy=".8em" y="107.70000004768372"
+                          x="1360.5">不中
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node65">
+                <path id="kity_path_661" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1483,110h0a53,53,0,0,1,53,53v0a53,53,0,0,1,-53,53h0a53,53,0,0,1,-53,-53v0a53,53,0,0,1,53,-53z"
+                      display="none"></path>
+                <g id="node_expander64" style="cursor: pointer;" display="none">
+                    <path id="kity_path_659" fill="white" stroke="gray"
+                          d="M1422.5,157.5A6,6,0,1,1,1410.5,157.5A6,6,0,1,1,1422.5,157.5"></path>
+                    <path id="kity_path_660" fill="none" stroke="gray"></path>
+                </g>
+                <path id="node_outline65" fill="white" stroke="white"
+                      d="M1427.5,146.5h96a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-96a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text65" fill="black">
+                    <text id="kity_text_656" text-rendering="inherit" font-size="12" dy=".8em" y="149.70000004768372"
+                          x="1432.5">跳到读取单数据
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node63" opacity="1">
+                <path id="kity_path_643" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1371,147h0a16,16,0,0,1,16,16v0a16,16,0,0,1,-16,16h0a16,16,0,0,1,-16,-16v0a16,16,0,0,1,16,-16z"
+                      display="none"></path>
+                <g id="node_expander62" style="cursor: pointer;">
+                    <path id="kity_path_641" fill="white" stroke="gray"
+                          d="M1350.5,157.5A6,6,0,1,1,1338.5,157.5A6,6,0,1,1,1350.5,157.5"></path>
+                    <path id="kity_path_642" fill="none" stroke="gray" d="M1340,157.5L1349,157.5"></path>
+                </g>
+                <path id="node_outline63" fill="white" stroke="white"
+                      d="M1355.5,146.5h22a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-22a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text63" fill="black">
+                    <text id="kity_text_638" text-rendering="inherit" font-size="12" dy=".8em" y="149.70000004768372"
+                          x="1360.5">中
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node67">
+                <path id="kity_path_679" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1461.5,174h0a31,31,0,0,1,31,31v0a31,31,0,0,1,-31,31h0a31,31,0,0,1,-31,-31v0a31,31,0,0,1,31,-31z"
+                      display="none"></path>
+                <g id="node_expander66" style="cursor: pointer;" display="none">
+                    <path id="kity_path_677" fill="white" stroke="gray"
+                          d="M1423.5,199.5A6,6,0,1,1,1411.5,199.5A6,6,0,1,1,1423.5,199.5"></path>
+                    <path id="kity_path_678" fill="none" stroke="gray"></path>
+                </g>
+                <path id="node_outline67" fill="white" stroke="white"
+                      d="M1428.5,188.5h54a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-54a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text67" fill="black">
+                    <text id="kity_text_674" text-rendering="inherit" font-size="12" dy=".8em" y="191.70000004768372"
+                          x="1433.5">继续下2
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node64" opacity="1">
+                <path id="kity_path_652" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1371.5,188h0a17,17,0,0,1,17,17v0a17,17,0,0,1,-17,17h0a17,17,0,0,1,-17,-17v0a17,17,0,0,1,17,-17z"
+                      display="none"></path>
+                <g id="node_expander63" style="cursor: pointer;">
+                    <path id="kity_path_650" fill="white" stroke="gray"
+                          d="M1350.5,199.5A6,6,0,1,1,1338.5,199.5A6,6,0,1,1,1350.5,199.5"></path>
+                    <path id="kity_path_651" fill="none" stroke="gray" d="M1340,199.5L1349,199.5"></path>
+                </g>
+                <path id="node_outline64" fill="white" stroke="white"
+                      d="M1355.5,188.5h23a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-23a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text64" fill="black">
+                    <text id="kity_text_647" text-rendering="inherit" font-size="12" dy=".8em" y="191.70000004768372"
+                          x="1360.5">和
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node60">
+                <path id="kity_path_616" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1284.5,132h0a31,31,0,0,1,31,31v0a31,31,0,0,1,-31,31h0a31,31,0,0,1,-31,-31v0a31,31,0,0,1,31,-31z"
+                      display="none"></path>
+                <g id="node_expander59" style="cursor: pointer;">
+                    <path id="kity_path_614" fill="white" stroke="gray"
+                          d="M1246.5,157.5A6,6,0,1,1,1234.5,157.5A6,6,0,1,1,1246.5,157.5"></path>
+                    <path id="kity_path_615" fill="none" stroke="gray" d="M1236,157.5L1245,157.5"></path>
+                </g>
+                <path id="node_outline60" fill="white" stroke="white"
+                      d="M1251.5,146.5h54a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-54a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text60" fill="black">
+                    <text id="kity_text_611" text-rendering="inherit" font-size="12" dy=".8em" y="149.70000004768372"
+                          x="1256.5">继续下2
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node59" opacity="1">
+                <path id="kity_path_607" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1194.5,146h0a17,17,0,0,1,17,17v0a17,17,0,0,1,-17,17h0a17,17,0,0,1,-17,-17v0a17,17,0,0,1,17,-17z"
+                      display="none"></path>
+                <g id="node_expander58" style="cursor: pointer;">
+                    <path id="kity_path_605" fill="white" stroke="gray"
+                          d="M1173.5,157.5A6,6,0,1,1,1161.5,157.5A6,6,0,1,1,1173.5,157.5"></path>
+                    <path id="kity_path_606" fill="none" stroke="gray" d="M1163,157.5L1172,157.5"></path>
+                </g>
+                <path id="node_outline59" fill="white" stroke="white"
+                      d="M1178.5,146.5h23a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-23a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text59" fill="black">
+                    <text id="kity_text_602" text-rendering="inherit" font-size="12" dy=".8em" y="149.70000004768372"
+                          x="1183.5">和
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node39">
+                <path id="kity_path_390" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1109.5,72h0a28,28,0,0,1,28,28v0a28,28,0,0,1,-28,28h0a28,28,0,0,1,-28,-28v0a28,28,0,0,1,28,-28z"
+                      display="none"></path>
+                <g id="node_expander38" style="cursor: pointer;">
+                    <path id="kity_path_388" fill="white" stroke="gray"
+                          d="M1075.5,94.5A6,6,0,1,1,1063.5,94.5A6,6,0,1,1,1075.5,94.5"></path>
+                    <path id="kity_path_389" fill="none" stroke="gray" d="M1065,94.5L1074,94.5"></path>
+                </g>
+                <path id="node_outline39" fill="white" stroke="white"
+                      d="M1080.5,83.5h48a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-48a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text39" fill="black">
+                    <text id="kity_text_385" text-rendering="inherit" font-size="12" dy=".8em" y="86.70000004768372"
+                          x="1085.5">单一虎
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node38">
+                <path id="kity_path_381" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M1004,63h0a37,37,0,0,1,37,37v0a37,37,0,0,1,-37,37h0a37,37,0,0,1,-37,-37v0a37,37,0,0,1,37,-37z"
+                      display="none"></path>
+                <g id="node_expander37" style="cursor: pointer;">
+                    <path id="kity_path_379" fill="white" stroke="gray"
+                          d="M959.5,94.5A6,6,0,1,1,947.5,94.5A6,6,0,1,1,959.5,94.5"></path>
+                    <path id="kity_path_380" fill="none" stroke="gray" d="M949,94.5L958,94.5"></path>
+                </g>
+                <path id="node_outline38" fill="white" stroke="white"
+                      d="M964.5,83.5h66a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-66a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text38" fill="black">
+                    <text id="kity_text_376" text-rendering="inherit" font-size="12" dy=".8em" y="86.70000004768372"
+                          x="969.5">保存走势2
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node24" opacity="1">
+                <path id="kity_path_238" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M907,83h0a17,17,0,0,1,17,17v0a17,17,0,0,1,-17,17h0a17,17,0,0,1,-17,-17v0a17,17,0,0,1,17,-17z"
+                      display="none"></path>
+                <g id="node_expander23" style="cursor: pointer;">
+                    <path id="kity_path_236" fill="white" stroke="gray"
+                          d="M885.5,94.5A6,6,0,1,1,873.5,94.5A6,6,0,1,1,885.5,94.5"></path>
+                    <path id="kity_path_237" fill="none" stroke="gray" d="M875,94.5L884,94.5"></path>
+                </g>
+                <path id="node_outline24" fill="white" stroke="white"
+                      d="M890.5,83.5h24a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-24a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text24" fill="black">
+                    <text id="kity_text_233" text-rendering="inherit" font-size="12" dy=".8em" y="86.70000004768372"
+                          x="895.5">虎
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node20" opacity="1">
+                <path id="kity_path_202" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M847.5,208h0a34,34,0,0,1,34,34v0a34,34,0,0,1,-34,34h0a34,34,0,0,1,-34,-34v0a34,34,0,0,1,34,-34z"
+                      display="none"></path>
+                <g id="node_expander19" style="cursor: pointer;">
+                    <path id="kity_path_200" fill="white" stroke="gray"
+                          d="M806.5,236.5A6,6,0,1,1,794.5,236.5A6,6,0,1,1,806.5,236.5"></path>
+                    <path id="kity_path_201" fill="none" stroke="gray" d="M796,236.5L805,236.5"></path>
+                </g>
+                <path id="node_outline20" fill="white" stroke="white"
+                      d="M811.5,225.5h60a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-60a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text20" fill="black">
+                    <text id="kity_text_197" text-rendering="inherit" font-size="12" dy=".8em" y="228.70000004768372"
+                          x="816.5">等待结果
+                    </text>
+                </g>
+            </g>
+            <g id="minder_node18" opacity="1">
+                <path id="kity_path_183" fill="rgba(0, 0, 0, .25)" stroke="none"
+                      d="M792.5,303h0a34,34,0,0,1,34,34v0a34,34,0,0,1,-34,34h0a34,34,0,0,1,-34,-34v0a34,34,0,0,1,34,-34z"
+                      display="none"></path>
+                <g id="node_expander17" style="cursor: pointer;" display="none">
+                    <path id="kity_path_181" fill="white" stroke="gray"
+                          d="M751.5,331.5A6,6,0,1,1,739.5,331.5A6,6,0,1,1,751.5,331.5"></path>
+                    <path id="kity_path_182" fill="none" stroke="gray"></path>
+                </g>
+                <path id="node_outline18" fill="white" stroke="white"
+                      d="M756.5,320.5h60a5,5,0,0,1,5,5v12a5,5,0,0,1,-5,5h-60a5,5,0,0,1,-5,-5v-12a5,5,0,0,1,5,-5z"></path>
+                <g id="node_text18" fill="black">
+                    <text id="kity_text_178" text-rendering="inherit" font-size="12" dy=".8em" y="323.7000000476837"
+                          x="761.5">继续等待
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

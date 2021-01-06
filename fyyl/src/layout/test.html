@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+    <!-- head 中 -->
+    <link href="css/materialize.min.css" rel="stylesheet">
+    <title>参数设置</title>
+</head>
+<body style="margin-left: 2px;margin-right: 2px">
+<div class="input-field col s12">
+
+    <div class="card-panel">
+        <!--        <span class="card-title">基本信息</span>-->
+        <div class="row s12 ">
+            <div class="input-field  inline col s4">
+                <input class="validate" id="doubleBet" type="text">
+                <label for="doubleBet" size="20">双押 格式：20-20</label>
+            </div>
+        </div>
+
+        <div class="row s12 ">
+            <div class="input-field inline col s4">
+                <input class="validate" id="singleDeposit" type="text">
+                <label for="singleDeposit">单押 格式：1,2,5</label>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<!--<br/>-->
+<!--<br/>-->
+<!--<br/>-->
+<!--<br/>-->
+
+<div class="row">
+
+    <div class="col s6">
+        <button class="btn waves-effect waves-light " name="action" onclick="javascript:save()" type="button">保存配置
+        </button>
+    </div>
+
+    <!--    <div class="col s6">-->
+    <!--        <button class="btn waves-effect waves-light" type="button" name="action" onclick="javascript:window.ec.start()">-->
+    <!--            启动脚本-->
+    <!--        </button>-->
+    <!--    </div>-->
+
+</div>
+
+<script src="htmljs/jquery.min.js"></script>
+<script src="htmljs/materialize.min.js"></script>
+
+</body>
+
+<script>
+    $(function () {
+
+        //使用jquery进行设置值
+        //取得参数并且进行设置
+        var doubleBet = window.ec.getConfig("doubleBet");
+        $("#doubleBet").val(doubleBet);
+
+        var singleDeposit = window.ec.getConfig("singleDeposit");
+        $("#singleDeposit").val(singleDeposit);
+
+        // window.ec.hideStartBtn(); //隐藏开始按钮
+        window.ec.displayStartBtn(); //显示开始按钮
+
+    });
+
+
+    //保存参数的函数
+    function save() {
+
+        var doubleBet = $("#doubleBet").val();
+        window.ec.saveConfig("doubleBet", doubleBet);
+        var singleDeposit = $("#singleDeposit").val();
+        window.ec.saveConfig("singleDeposit", singleDeposit);
+        window.ec.toast("当前配置保存成功");
+    }
+
+</script>
+
+</html>

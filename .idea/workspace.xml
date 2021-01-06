@@ -4,21 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c26b329-6d26-4d61-ad3c-03cd26df737a" name="默认的" comment="微信打卡、影视刷广告，视一视刷视频、评测广告">
-      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.7/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/_2021_1_7_03_02___Default_Changelist_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/_2021_1_7_03_03___Default_Changelist_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_1_7_03_02_取消提交了变更_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_1_7_03_03_取消提交了变更_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="5c26b329-6d26-4d61-ad3c-03cd26df737a" name="默认的" comment="富赢娱乐棋牌-龙虎大战自动下注">
+      <change afterPath="$PROJECT_DIR$/fyyl/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/fyyl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/libs/acEvent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/libs/agentEvent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/libs/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/libs/device.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/libs/ecloud.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/libs/file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/libs/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/libs/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/libs/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/libs/shell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/libs/sqlite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/libs/thread.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/libs/uilayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/libs/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/pkgsetting.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/js/conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/js/func.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/css/materialize.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/htmljs/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/htmljs/materialize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/intr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/layout.attr.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/layout.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/other.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/test2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/timer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/layout/ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/res/11111111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/res/dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/res/drawable/20201216003102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/res/drawable/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/res/drawable/流程图.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/res/jjks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/res/peace.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/res/qxz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/res/tiger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fyyl/src/update.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_1_7_03_02___Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021_1_7_03_03___Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_1_7_03_02_取消提交了变更_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021_1_7_03_03_取消提交了变更_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="f41bd2be-184a-4be9-8367-969b33028c00" name="在进行更新之前于 2021/1/7 03:03 取消提交了变更 [Default Changelist]" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +153,7 @@
       <workItem from="1609963237544" duration="391000" />
       <workItem from="1609963964157" duration="1169000" />
       <workItem from="1609965148255" duration="123000" />
-      <workItem from="1609965276692" duration="656000" />
+      <workItem from="1609965276692" duration="1202000" />
     </task>
     <task id="LOCAL-00001" summary="完成比较稳妥的功能函数launch通过包名启动应用">
       <created>1609959689186</created>
@@ -163,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609962947012</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="富赢娱乐棋牌-龙虎大战自动下注">
+      <created>1609966314495</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609966314495</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +229,8 @@
     <MESSAGE value="完成功能函数launch通过包名比较稳妥的启动应用" />
     <MESSAGE value="增加微博项目" />
     <MESSAGE value="微信打卡、影视刷广告，视一视刷视频、评测广告" />
-    <option name="LAST_COMMIT_MESSAGE" value="微信打卡、影视刷广告，视一视刷视频、评测广告" />
+    <MESSAGE value="富赢娱乐棋牌-龙虎大战自动下注" />
+    <option name="LAST_COMMIT_MESSAGE" value="富赢娱乐棋牌-龙虎大战自动下注" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
